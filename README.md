@@ -15,3 +15,10 @@ Its goal is to make desktop use more enjoyable while combining entertainment wit
 موجو می‌تواند یادآوری‌های مفید، نکات سلامتی و چالش‌های روزانه ارائه دهد.  
 این برنامه علایق کاربر را به خاطر می‌سپارد، پیشرفت او را دنبال می‌کند و امکانات شخصی‌سازی و دریافت پاداش دارد.  
 هدف موجو، لذت‌بخش‌تر کردن کار با دسکتاپ و ترکیب سرگرمی با قابلیت‌های کاربردی روزمره است.
+
+
+![Mojo Main Menu](mojo1.png)
+
+![Mojo Mini Games](mojo2.png)
+
+![Mojo Settings](mojo3.png)
