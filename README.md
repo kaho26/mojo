@@ -19,6 +19,6 @@ Its goal is to make desktop use more enjoyable while combining entertainment wit
 
 ![Mojo Main Menu](mojo1.png)
 
-![Mojo Mini Games](mojo2.png)
+![Mojo Mini Games](moJo2.png)
 
 ![Mojo Settings](mojo3.png)
